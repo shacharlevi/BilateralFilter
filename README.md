@@ -3,7 +3,7 @@ The goal of this project is to denoise digital images while preserving edges. Fo
 nonlinear filtering approaches should be used. Specifically, we would like to investigate a
 filtering approach so-called "bilateral filtering" as described in "Tomasi_Manduchi_1998" article(attached) in both B&W images and RGB(color) images .
  
-I attach PDF of the final report that summarize purpose, results, conclusions and Extended explanation about the project:
+PDF of the final report that summarize purpose, results, conclusions and Extended explanation about the project:
 
 [פרויקט.pdf](https://github.com/shacharlevi/BilateralFilter/files/11222764/default.pdf)
 
